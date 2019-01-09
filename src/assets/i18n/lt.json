@@ -181,7 +181,8 @@
 					"export": "Eksportas",
 					"more_options": "Daugiau funkcijų",
 					"pia": "Atidaryti<br>PDAV",
-					"remove": "Ištrinti"
+					"remove": "Ištrinti",
+          "convert_to_template": "TO TRANSLATE - Convert<br> to template"
 				}
 			},
 			"new_pia": "Naujas PDAV",
@@ -250,7 +251,8 @@
 					"edit": "Redaguoti",
 					"export": "Eksportuoti",
 					"pia": "Atidaryti PDAV",
-					"remove": "Ištrinti"
+					"remove": "Ištrinti",
+          "convert_to_template": "TO TRANSLATE - Convert<br> to template"
 				}
 			}
 		}

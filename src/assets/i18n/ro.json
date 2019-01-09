@@ -181,7 +181,8 @@
 					"export": "Export fișier",
 					"more_options": "Mai multe opțiuni",
 					"pia": "Afișare<br>PIA",
-					"remove": "Ștergere"
+					"remove": "Ștergere",
+          "convert_to_template": "TO TRANSLATE - Convert<br> to template"
 				}
 			},
 			"new_pia": "Creare PIA",
@@ -250,7 +251,8 @@
 					"edit": "Editare",
 					"export": "Export fișier",
 					"pia": "Afișare PIA",
-					"remove": "Ștergere"
+					"remove": "Ștergere",
+          "convert_to_template": "TO TRANSLATE - Convert<br> to template"
 				}
 			}
 		}

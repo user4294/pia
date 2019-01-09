@@ -181,7 +181,8 @@
 					"export": "Izvezi",
 					"more_options": "Više opcija",
 					"pia": "Prikaži<br>PUP",
-					"remove": "Izbriši"
+					"remove": "Izbriši",
+          "convert_to_template": "TO TRANSLATE - Convert<br> to template"
 				}
 			},
 			"new_pia": "Novi PUP",
@@ -250,7 +251,8 @@
 					"edit": "Uredi",
 					"export": "Izvezi",
 					"pia": "Prikaži PUP",
-					"remove": "Izbriši"
+					"remove": "Izbriši",
+          "convert_to_template": "TO TRANSLATE - Convert<br> to template"
 				}
 			}
 		}

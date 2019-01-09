@@ -181,7 +181,8 @@
 					"export": "Ekspordi",
 					"more_options": "Rohkem valikuid",
 					"pia": "Näita<br>mõjuhinnagut",
-					"remove": "Kustuta"
+					"remove": "Kustuta",
+          "convert_to_template": "TO TRANSLATE - Convert<br> to template"
 				}
 			},
 			"new_pia": "Uus mõjuhinnag",
@@ -250,7 +251,8 @@
 					"edit": "Toimeta",
 					"export": "Ekspordi",
 					"pia": "Näita mõjuhinnagut",
-					"remove": "Kustuta"
+					"remove": "Kustuta",
+          "convert_to_template": "TO TRANSLATE - Convert<br> to template"
 				}
 			}
 		}

@@ -181,7 +181,8 @@
 					"export": "Eksporter",
 					"more_options": "Flere valg",
 					"pia": "Vis<br>PIA",
-					"remove": "Slett"
+					"remove": "Slett",
+          "convert_to_template": "TO TRANSLATE - Convert<br> to template"
 				}
 			},
 			"new_pia": "Ny PIA",
@@ -250,7 +251,8 @@
 					"edit": "Rediger",
 					"export": "Eksporter",
 					"pia": "Vis PIA",
-					"remove": "Slett"
+					"remove": "Slett",
+          "convert_to_template": "TO TRANSLATE - Convert<br> to template"
 				}
 			}
 		}

@@ -181,7 +181,8 @@
 					"export": "Esporta",
 					"more_options": "Altre opzioni",
 					"pia": "Mostra<br>PIA",
-					"remove": "Cancella"
+					"remove": "Cancella",
+          "convert_to_template": "TO TRANSLATE - Convert<br> to template"
 				}
 			},
 			"new_pia": "Nuova PIA",
@@ -250,7 +251,8 @@
 					"edit": "Modifica",
 					"export": "Esporta",
 					"pia": "Mostra PIA",
-					"remove": "Cancella"
+					"remove": "Cancella",
+          "convert_to_template": "TO TRANSLATE - Convert<br> to template"
 				}
 			}
 		}

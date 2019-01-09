@@ -532,4 +532,21 @@ export class PiaService {
       this.importData(jsonFile, 'IMPORT', false);
     }
   }
+
+  /**
+   * Convert a PIA to a template
+   * @param {number} id - The PIA id.
+   * @memberof PiaService
+   */
+  convertToTemplate(id: number) {
+    this.exportData(id).then((data) => {
+      console.log(data)
+      /*const structure = new Structure();
+      structure.name = this.structureForm.value.name;
+      structure.sector_name = this.structureForm.value.sector_name;
+      structure.data = ?;
+      const p = structure.create();
+      p.then((id) => this.router.navigate(['structures', 'entry', id, 'section', 1, 'item', 1]));*/
+    });
+  }
 }

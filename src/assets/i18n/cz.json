@@ -181,7 +181,8 @@
 					"export": "Exportovat",
 					"more_options": "Více voleb",
 					"pia": "Zobrazit<br>PIA",
-					"remove": "Odstranit"
+					"remove": "Odstranit",
+          "convert_to_template": "TO TRANSLATE - Convert<br> to template"
 				}
 			},
 			"new_pia": "Nová PIA",
@@ -250,7 +251,8 @@
 					"edit": "Upravit",
 					"export": "Exportovat",
 					"pia": "Zobrazit PIA",
-					"remove": "Odstranit"
+					"remove": "Odstranit",
+          "convert_to_template": "TO TRANSLATE - Convert<br> to template"
 				}
 			}
 		}
