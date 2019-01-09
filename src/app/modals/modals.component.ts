@@ -93,6 +93,14 @@ export class ModalsComponent implements OnInit {
     structure.name = this.structureForm.value.name;
     structure.sector_name = this.structureForm.value.sector_name;
     structure.data = this._piaService.data;
+
+    // TODO : if there are some PIA data, we are trying to convert it to a template
+    // PIA data should be added in this new template after filling template name/sector
+    if (this._modalsService.piaData) {
+      // TODO
+      console.log(this._modalsService.piaData)
+    }
+
     const p = structure.create();
     p.then((id) => this.router.navigate(['structures', 'entry', id, 'section', 1, 'item', 1]));
   }

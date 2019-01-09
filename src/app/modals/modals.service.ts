@@ -5,7 +5,7 @@ import { PaginationService } from 'app/entry/entry-content/pagination.service';
 
 @Injectable()
 export class ModalsService {
-
+  piaData: any;
   constructor(private _router: Router,
               private _paginationService: PaginationService) {}
 
@@ -14,7 +14,11 @@ export class ModalsService {
    * @param {string} modal_id - Unique id of the modal which has to be opened.
    * @memberof ModalsService
    */
-  openModal(modal_id: string) {
+  openModal(modal_id: string, data?: any) {
+    // Set PIA data for modal if we try to convert a PIA to a template
+    if (modal_id === 'modal-list-new-structure' && data) {
+      this.piaData = data;
+    }
     if (modal_id === 'pia-declare-measures' ||
         modal_id === 'pia-action-plan-no-evaluation' ||
         modal_id === 'pia-dpo-missing-evaluations') {
